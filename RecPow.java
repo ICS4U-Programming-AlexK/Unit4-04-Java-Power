@@ -16,7 +16,6 @@ public final class RecPow {
     private static final String INPUT_FILE = "input.txt";
     /** Constant for the output file. */
     private static final String OUTPUT_FILE = "output.txt";
-
     /**
      * This is to satisfy the style checker.
      *
