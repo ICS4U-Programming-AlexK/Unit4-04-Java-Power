@@ -1,0 +1,5 @@
+2^4 = 16
+Empty line.
+Invalid number: rt
+2^30 = 1073741824
+Negative number.
